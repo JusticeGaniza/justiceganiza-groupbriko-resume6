@@ -1,0 +1,101 @@
+header {
+
+    background-color: #00A98B;
+    text-align: center;
+    padding: ;
+    border: ;
+    margin: ;
+
+}
+
+
+img {
+
+    border-radius: 50%;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 18%;
+
+  }
+
+
+h1 {
+
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    color: #E6FFF8;
+
+  }
+
+  h2 {
+
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    color: #087565;
+
+  }
+
+  p {
+
+    padding: ;
+    border: ;
+    margin-left: 5%;
+    margin-right: 5%;
+
+
+  }
+
+
+#intro {
+
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    color: #E6FFF8;
+
+}
+
+aside {
+
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    color: #E6FFF8;
+    background-color: #4FAA98;
+
+}
+
+article {
+
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    color: #E6FFF8;
+    background-color: #4FAA98;
+    padding: ;
+    border: ;
+    margin: ;
+
+
+}
+
+footer {
+
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    color: #E6FFF8;
+    background-color: #4FAA98;
+    padding: ;
+    border: ;
+    margin: ;
+
+
+
+}
+
+.menu {
+
+
+}
+
+.content {
+
+
+}
+
+.contact {
+
+    
+}
